@@ -1,4 +1,4 @@
-# 🔐 Página de Login & Cadastro
+#  Página de Login & Cadastro
 
 Projeto de uma tela de autenticação com animação de transição entre **Login** e **Cadastro**, desenvolvido como treinamento de HTML, CSS e JavaScript.
 
@@ -24,7 +24,7 @@ Imagens/
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 ### Autenticação
 - Cadastro de usuários com armazenamento em memória
@@ -90,7 +90,7 @@ A troca entre as telas é feita via `<input type="checkbox" id="toggle">` + CSS 
 
 ---
 
-## 🔮 Melhorias futuras
+##  Melhorias futuras
 
 - [ ] Integração com backend (Node.js / PHP / Firebase)
 - [ ] Hash de senha antes de armazenar
